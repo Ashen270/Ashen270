@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Unreal,JavaScript,Python**
 
-- 💬 I'm intersted in **Game Development, Web Design**
+- 💬 I'm interested in **Game Development, Web Design**
 
 - 📫 How to connect with me **ashenshamilka270@gmail.com**
 
