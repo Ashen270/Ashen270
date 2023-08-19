@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently a **Software Technology Undergraduate**
 
-- 🌱 I’m currently learning **Unreal,JavaScript,Python**
+- 🌱 I’m currently learning **Unreal,JavaScript,Python,MERN**
 
 - 💬 I'm interested in **Game Development, Web Design**
 
