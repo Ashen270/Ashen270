@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ashen Shamilka</h1>
 <h3 align="center">Leveling Up: Gaming Enthusiast & Budding Web Dev from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashen270&label=Profile%20views&color=0e75b6&style=flat" alt="ashen270" /> </p>
+
 
 - 🔭 I’m currently a **Software Technology Undergraduate**
 
