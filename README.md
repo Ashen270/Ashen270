@@ -1,4 +1,5 @@
-[![MasterHead](https://www.pinterest.com/pin/code-driveby--764837949221236977/)]
+![download](https://github.com/Ashen270/Ashen270/assets/128624342/7b500971-2046-4c77-a414-6c836150fc1d)
+
 <h1 align="center">Hi 👋, I'm Ashen Shamilka</h1>
 <h3 align="center">Leveling Up: Gaming Enthusiast & Budding Web Developer</h3>
 
