@@ -1,8 +1,10 @@
-[![MasterHead](https://steamcommunity.com/sharedfiles/filedetails/?l=finnish&id=1839438262)]
+[![MasterHead](https://www.pinterest.com/pin/code-driveby--764837949221236977/)]
 <h1 align="center">Hi 👋, I'm Ashen Shamilka</h1>
 <h3 align="center">Leveling Up: Gaming Enthusiast & Budding Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashen270&label=Profile%20views&color=0e75b6&style=flat" alt="ashen270" /> </p>
+
+- 🔭 I’m currently a **Software Technology Undergraduate**
 
 - 🌱 I’m currently learning **Unreal,React,Python**
 
