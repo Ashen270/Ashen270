@@ -1,4 +1,4 @@
-![image](https://github.com/Ashen270/Ashen270/assets/128624342/254f2945-31c3-434a-a38a-22bccfb9bdec)
+![image]()
 
 
 
