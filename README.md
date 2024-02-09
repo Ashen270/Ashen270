@@ -9,6 +9,21 @@
 🔭 I’m currently a Software Technology Undergraduate<br><br>🌱 I’m currently learning Unreal,React,Python<br><br>🤝 I’m interested in Game Development, Web Design<br><br>📫 How to reach me ashenshamilka270@gmail.com
 
 
+
+<div align="center"> 
+  <a href="ashenshamilka270@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/ashen-shamilka-wickramasinghe/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  
+</div>
+
+
+
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AshenShamilka270) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a_s_h_e_n2.7.0)
 
