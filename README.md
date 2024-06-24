@@ -1,7 +1,3 @@
-/*![image](https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif)*/
-
-
-
 <h1 align="center">Hi 👋, I'm Ashen Shamilka</h1>
 
 
