@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently a Software Technology Undergraduate<br><br>🌱 I’m currently learning Unreal,React,Python<br><br>🤝 I’m interested in Game Development, Web Design<br><br>📫 How to reach me ashenshamilka270@gmail.com
+🔭 I’m currently a Software Technology Undergraduate<br><br>🌱 I’m currently learning Unreal,React,Python<br><br>🤝 I’m interested in Fullstack Development<br><br>📫 How to reach me ashenshamilka270@gmail.com
 
 
 
